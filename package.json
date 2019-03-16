@@ -1,0 +1,31 @@
+{
+  "name": "pg-dynamic-crud",
+  "version": "1.0.0",
+  "description": " ",
+  "keywords": [
+    "database",
+    "libpq",
+    "pg-crud",
+    "postgre-crud",
+    "postgres-crud",
+    "postgresql-crud",
+    "rdbms",
+    "crud"
+  ],
+  "homepage": "http://github.com/dannibla/pg-dynamic-crud",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dannibla/pg-dynamic-crud.git"
+  },
+  "author": "Daniel Abraham <dannibla@outlook.com>",
+  "main": "./lib",
+  "dependencies": {
+    "pg": "^7.8.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">= 4.5.0"
+  }
+}
