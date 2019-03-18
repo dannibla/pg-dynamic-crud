@@ -1,7 +1,7 @@
 {
   "name": "pg-dynamic-crud",
   "version": "1.0.0",
-  "description": " ",
+  "description": "The Fastest and Simplest way to Create CRUD Opertaions by Connecting PostgreSQL with NodeJS",
   "keywords": [
     "database",
     "libpq",
@@ -13,6 +13,9 @@
     "crud"
   ],
   "homepage": "http://github.com/dannibla/pg-dynamic-crud",
+  "bugs": {
+    "url": "https://github.com/dannibla/pg-dynamic-crud/issues"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/dannibla/pg-dynamic-crud.git"
