@@ -50,7 +50,7 @@ dlldata.c
 BenchmarkDotNet.Artifacts/
 
 # .NET Core
-project.lock.json
+project-lock.json
 project.fragment.lock.json
 artifacts/
 
@@ -193,6 +193,9 @@ PublishScripts/
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
+
+# npm cache/options
+.npmignore
 
 # Microsoft Azure Emulator
 ecf/
